@@ -5,26 +5,14 @@ body {
     width: 640px; 
     padding: 50px;
     font-family: 'Lexend Deca', sans-serif;
-    font-size: 100%;
     color: #1b2834;
   }
-
   h1 {
     color: #1b2834;
-    font-size: 4em;
   }
-
-  h2 {
-    color: #1b2834;
-    font-size: 2.5em;
-  }
-
   p {
     color: #1b2834;
-    font-size: 1.5em;
   }
-
   a {
     color: #1b2834;
-    font-size: 1.5em;
   }
