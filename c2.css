@@ -1,18 +1,31 @@
 body {
-    text-align: center;
-    background-color:rgb(255,255,255);
-    margin: auto;
-    width: 640px; 
-    padding: 50px;
-    font-family: 'Lexend Deca', sans-serif;
-    color: #1b2834;
-  }
-  h1 {
-    color: #1b2834;
-  }
-  p {
-    color: #1b2834;
-  }
-  a {
-    color: #1b2834;
-  }
+  text-align: center;
+  background-color:rgb(255,255,255);
+  margin: auto;
+  width: auto; 
+  padding: 2.5%;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 100%;
+  color: #242333;
+}
+
+h1 {
+  color: #242333;
+  font-size: 4em;
+  margin: 0px 0px 0px 0px;
+}
+
+p {
+  color: #242333;
+  font-size: 1.5em;
+  margin: 20px;
+}
+
+a {
+  color: #242333;
+  font-size: 1.5em;
+}
+
+hr {
+  width: 50%;
+}
